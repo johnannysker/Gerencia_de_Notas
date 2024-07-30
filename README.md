@@ -1,10 +1,6 @@
-# Objetivo: Desenvolver uma aplicação em JavaScript utilizando Node.js que permita a gestão 
-  de notas e médias dos alunos.
+# Objetivo: Desenvolver uma aplicação em JavaScript utilizando Node.js que permita a gestão de notas e médias dos alunos.
   
-## A aplicação deve receber o nome do aluno, nome 
-   das matérias, as notas das matérias, calcular a média individual e contabilizar 
-   as faltas.
-  
+## A aplicação deve receber o nome do aluno, nome das matérias, as notas das matérias, calcular a média individual e contabilizar as faltas.
 # Funcionalidades:
     1. Cadastro do Aluno:
     • Solicitar o nome do aluno.
